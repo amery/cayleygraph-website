@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cayley</title>
-    <link>https://cayley.io/</link>
+    <link>https://cayleygraph-website.pages.dev/</link>
     <description>Recent content on Cayley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cayley.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cayleygraph-website.pages.dev/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
